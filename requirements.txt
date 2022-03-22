@@ -1,0 +1,6 @@
+bencode==1.0
+bencode.py==4.0.0
+btdht==0.3.3
+datrie==0.8.2
+netaddr==0.8.0
+six==1.16.0
