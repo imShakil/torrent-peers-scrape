@@ -39,3 +39,7 @@ def scrape(torrent, timeout, print_peers):
 
 scrape(args.torrent, args.timeout, args.print)
 
+
+# usage
+# python3 main.py torrent-file -t time-in-seconds
+# it will print the peer lists
